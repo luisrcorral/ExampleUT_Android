@@ -1,7 +1,8 @@
 package com.example.exampletst
 
 class HelperDB {
-    //Suppose that this is a helper class that you need in your regular activities
+    //Suppose that this is a helper class that you need in your
+    // regular activities
 
     public var returned : String = ""
 
